@@ -1,4 +1,4 @@
-# Jogo pokemon Baseiado-em sorte
+# Jogo pokemon Baseiado em sorte
 esse é o meu primeiro projeto no github, ele contém as seguintes mecânicas:
 
 - o seu rival vai escolher um pokémon aleatório para batalhar contigo
